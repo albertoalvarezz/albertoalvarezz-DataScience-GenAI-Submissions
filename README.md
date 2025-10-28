@@ -11,8 +11,9 @@
 | 2 | Calculated Fields, Indexing and Subsetting | [2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb](2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb) |
 | 2 | Transforms and Concatenation | [2_04_Transforms_and_Concatenation.ipynb](2_04_Transforms_and_Concatenation.ipynb) |
 | 2 | Exploratory Data Analysis | [2_05_Exploratory_Data_Analysis.ipynb](2_05_Exploratory_Data_Analysis.ipynb) |
-| 3 | Linear Regression (Statistics vs Machine Learning) | [4_01_Linear_Regression_(statistics_vs_machine_learning).ipynb](4_01_Linear_Regression_(statistics_vs_machine_learning).ipynb) |
-| 3 | Logistic Regression | [4_02_Logistics_Regression.ipynb](4_02_Logistics_Regression.ipynb) |
+| 3 | Statistical Exploratory Data Analysis| [3_0X_Statistical_Exploratory_Data_Analysis.ipynb](3_0X_Statistical_Exploratory_Data_Analysis.ipynb) |
+| 4 | Linear Regression (Statistics vs Machine Learning) | [4_01_Linear_Regression_(statistics_vs_machine_learning).ipynb](4_01_Linear_Regression_(statistics_vs_machine_learning).ipynb) |
+| 4 | Logistic Regression | [4_02_Logistics_Regression.ipynb](4_02_Logistics_Regression.ipynb) |
 
 *This work is released under the MIT License.*
 
