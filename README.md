@@ -6,7 +6,7 @@
 
 | Assignment # | Title | Notebook File |
 |:-------------:|:------|:--------------|
-| 1 | Data and Feature Engineering | [2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb](Assingment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) |
+| 1 | Data and Feature Engineering | [2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb](Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) |
 | 2 | Joining DataFrames | [2_02_Joining_DataFrames.ipynb](2_02_Joining_DataFrames.ipynb) |
 | 2 | Calculated Fields, Indexing and Subsetting | [2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb](2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb) |
 | 2 | Transforms and Concatenation | [2_04_Transforms_and_Concatenation.ipynb](2_04_Transforms_and_Concatenation.ipynb) |
