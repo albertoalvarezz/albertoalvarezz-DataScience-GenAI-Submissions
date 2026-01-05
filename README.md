@@ -1,14 +1,14 @@
 # Data Science & Generative AI — Submissions
 
 This repository contains Jupyter notebooks submitted for the **Data Science & Generative AI** module.  
-Notebooks are organised by thematic content and assignment progression.
+Notebooks are organised by content area and assignment progression.
 
 ---
 
 ## 📊 Notebook Overview
 
-| Section | Assignment | Notebook | Link |
-|-------|------------|----------|------|
+| Content Section | Assignment | Notebook | Link |
+|-----------------|------------|----------|------|
 | **Data & Feature Engineering** | Assignment 1 | 2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb | [Open](Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb) |
 | **Data Wrangling (Pandas)** | Assignment 2 | 2_02_Joining_DataFrames.ipynb | [Open](Assignment_2/2_02_Joining_DataFrames.ipynb) |
 |  |  | 2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb | [Open](Assignment_2/2_03_Calculated_Fields_Indexing_and_Subsetting.ipynb) |
@@ -24,15 +24,15 @@ Notebooks are organised by thematic content and assignment progression.
 |  |  | 6_03_ML_in_practice.ipynb | [Open](Assingment_6/6_03_ML_in_practice.ipynb) |
 |  |  | 6_X_fundamental_math_for_DL.ipynb | [Open](Assingment_6/6_X_fundamental_math_for_DL.ipynb) |
 | **CNNs & Attention** | Assignment 7 | 7_01_convolutional_neural_networks.ipynb | [Open](Assingment_7/7_01_convolutional_neural_networks.ipynb) |
-|  |  | 7_X_illustrated_self_attention_.ipynb | [Open](Assingment_7/7_X_illustrated_self_attention_.ipynb) |
+|  |  | 7_X_illustrated_self_attention.ipynb | [Open](Assingment_7/7_X_illustrated_self_attention.ipynb) |
 | **Transformers & Fine-Tuning** | Assignment 8 | 8_01_Transformer_Backbone_and_Finetuning.ipynb | [Open](Assingment_8/8_01_Transformer_Backbone_and_Finetuning.ipynb) |
 
 ---
 
 ## 📌 Notes
 - All notebooks were created using **Google Colab**.
-- Outputs may be cleared to reduce repository size.
-- Sections correspond directly to the course progression.
+- Folder names are preserved exactly as in the repository.
+- Notebooks are intended to be read in assignment order.
 
 ---
 
