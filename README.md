@@ -24,7 +24,7 @@ This repository contains Jupyter notebooks submitted for the **Data Science & Ge
 
 ---
 
-This rpostory also contains an addtional notebook that was created to support my writting for Warwick´s Mathematical Magazine, demonstrating the application of material from the module into an area of interest and potential career pathway for my future career 
+This repository also contains an addtional notebook that was created to support my writting for Warwick´s Mathematical Magazine, demonstrating the application of material from the module into an area of interest and potential career pathway for my future career 
 
 
   *This work is released under the MIT License*
